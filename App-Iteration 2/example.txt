@@ -1,0 +1,7 @@
+What is the capital of Spain?|Madrid|Hard,Capitals
+What is the capital of Russia?|Moscow|Hard,Capitals
+What is the capital of South Korea?|Seoul|Hard,Capitals
+What is the capital of Cananda?|Ottowa|Hard,Capitals
+What is the capital of France?|Paris|Hard,Capitals
+What is the capital of India?|Dehli|Hard,Capitals
+
